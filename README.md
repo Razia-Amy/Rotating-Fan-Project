@@ -15,3 +15,7 @@ Step 1: Fan running at normal speed by clicking 'S' button.
 Step 2: Fan will be stop by clicking again on 'S' button.
 Step : speed will be increase by clicking 'k' and decreasing by 'i' button.
 *****
+
+Youtube link for this project : https://youtu.be/4nWIWRtgw38
+
+******
