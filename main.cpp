@@ -19,8 +19,8 @@ void display(void)
 	glRectf(-4.0, -25.0, 4.0, 25.0);
 	glColor3f(.0, 1.0, 0.0);
 	glutSolidTorus(1.00, 6.4, 10, 100); // inner radius, outer radius, sides, segments
-	glPopMatrix();//force execution of GL commands in finite time
-	glFlush();//forces the drawing to begin execution
+	glPopMatrix();
+	glFlush();//forces execution of GL commands in finite time
 }
 
 
